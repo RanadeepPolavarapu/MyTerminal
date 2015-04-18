@@ -10,7 +10,7 @@ Step 1 - Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 ---------------------------
 One click install via `curl`
 
-	`curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh`  
+	curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh  
 	
 
 Step 2 - Install [Homebrew](http://brew.sh/)
