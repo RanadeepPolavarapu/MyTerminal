@@ -1,6 +1,6 @@
-MyTerminal
+MyWorkspace
 =====================
-A quickstart for my preferred terminal on Mac OS X.
+A quickstart for all workspace related files and settings (dotfiles, Terminal settings, editors, etc.).
 
 # Example
 
